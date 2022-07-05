@@ -1,0 +1,24 @@
+{
+    "listOptions":[
+      {
+        "id": 1, 
+        "name":"PS5",
+        "dspMenu":"sales",
+        "color":"primary",
+        "url":"#"
+    },
+      { 
+        "id": 2, 
+        "name":"PS4",
+        "dspMenu":"Sales",
+        "color":"primary",
+        "url":"#r"
+    },
+      { 
+        "id": 3, 
+        "name":"Ps Vita",
+        "dspMenu":"Sales",
+        "color":"secondary",
+        "url":"#"}
+      ]
+}
